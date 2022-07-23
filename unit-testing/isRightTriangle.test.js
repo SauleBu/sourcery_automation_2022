@@ -1,0 +1,3 @@
+const isRightTriangle = require('./isRightTriangle');
+
+
